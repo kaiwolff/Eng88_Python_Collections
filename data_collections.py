@@ -1,18 +1,3 @@
-# Python Collections
-
-- Lists
-- Dictionaries
-- Tuples
-- Sets
-
-
-### What are Data Collections
-
-- Data Collections are used to collect data, oddly enough
-- CRUD principle: Create, read, update, delete
-- Exceptions are tuples, which are immutable
-
-
 # Lesson Code-Along
 #Lists
 #Syntax: Use square brackets to create a list, .e.g list = []
