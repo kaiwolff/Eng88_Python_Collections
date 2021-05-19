@@ -45,3 +45,8 @@ shopping_list.pop() # pop removes the last item from the list
 print(shopping_list)
 
 ```
+
+NOTE: Lists can hold multiple data types in one list, for example integers and strings
+
+### Tuples
+
