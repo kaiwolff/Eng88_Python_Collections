@@ -4,11 +4,11 @@
 
 shopping_list = ["juice", "strawberries", "yogurt", "chicken", "raspberries", "butter"]
 print(shopping_list)
-# print(type(shopping_list))
-# #same as with strings, collections are zero-indexed
+#print(type(shopping_list))
+##same as with strings, collections are zero-indexed
 #
-# print(shopping_list[2]) #this prints the third value in the list.
-# print(shopping_list[::-1]) #prints the list in reverse
+#print(shopping_list[2]) #this prints the third value in the list.
+#print(shopping_list[::-1]) #prints the list in reverse
 
 
 #if we need to replace a value in the list
