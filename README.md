@@ -66,7 +66,7 @@ print(type(essentials))
 #essentials[3] = "yogurt" 
 ```
 
-###Dictionaries
+### Dictionaries
 
 ```buildoutcfg
 # What are dictionaries?
