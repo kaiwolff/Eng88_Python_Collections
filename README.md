@@ -50,3 +50,17 @@ NOTE: Lists can hold multiple data types in one list, for example integers and s
 
 ### Tuples
 
+```#Tuples
+#Similar to lists, but immutable.
+#Tuples are created with parentheses ()
+# Use cases: Unchanging data. Things such as mathematical constants. Any data that once entered, shouldn't be changed.
+#Also technically more memory-efficient
+
+#in this case, using "essentials", item that will never be taken out of a shopping list
+
+essentials = ("eggs", "milk", "coffee", "bread")
+print(essentials)
+print(type(essentials))
+
+#the below will not work, since A TUPLE IS IMMUTABLE
+#essentials[3] = "yogurt"```
