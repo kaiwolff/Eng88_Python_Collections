@@ -13,8 +13,9 @@
 - Exceptions are tuples, which are immutable
 
 
-# Lesson Code-Along
-#Lists
+## Lesson Code-Along
+
+```#Lists
 #Syntax: Use square brackets to create a list, .e.g list = []
 
 shopping_list = ["juice", "strawberries", "yogurt", "chicken", "raspberries", "butter"]
@@ -42,3 +43,5 @@ print(shopping_list)
 
 shopping_list.pop() # pop removes the last item from the list
 print(shopping_list)
+
+```
