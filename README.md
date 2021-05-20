@@ -91,10 +91,10 @@ print(student_1.keys)#this will print only the keys of the dictionary
 print(student_1.values)#this will print only the values of the dictionary
 ```
 
-##Sets
+## Sets
 
 -Key Difference to lists is that they are not ordered.
--Can also have "frozen sets", which are vbery similar to tuples.
+-Can also have "frozen sets", which are very similar to tuples.
 ```#Code-Along - Sets
 #Sets are data collections, but the key difference is that they are UNORDERED
 # Syntax name = {}
